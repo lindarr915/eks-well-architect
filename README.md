@@ -42,10 +42,7 @@
 * You use limits and requests on all pod definitions to control resource allocation
 * You use Horizontal Pod  Autoscaler to use CPU utilization or custom metrics to scale out pods.
 
-
-
 ## Reference
 
 https://aws.github.io/aws-eks-best-practices/
 
-### 國外提供的原始版本 (不會全部都問)
